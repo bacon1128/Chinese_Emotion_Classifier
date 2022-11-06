@@ -7,7 +7,7 @@ conda create -n ENV_NAME -y python=3.8
 ```
 *Enter the enviroment and install dependencies.
 ```
-conda activaate ENV_NAME
+conda activate ENV_NAME
 pip install transformers torch gradio
 ```
 
